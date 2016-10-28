@@ -54,6 +54,7 @@ namespace VotingApplication
                     insertCommand.ExecuteNonQuery();
                     sqlConnection1.Close();
                 }
+                Response.Write("<script>alert('Thank you for voting!')</script>");
             }
             else
             {

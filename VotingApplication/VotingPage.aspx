@@ -8,7 +8,7 @@
     <meta name="description" content="The description of my page" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
-<body style="margin:0 auto; width:800px">
+<body style="margin:0 auto; width:1000px">
     <div>
         <h2>Please cast your vote!</h2>
     </div>
